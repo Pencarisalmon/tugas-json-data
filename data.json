@@ -1,0 +1,401 @@
+[
+  {
+    "Title": "Inception",
+    "Year": "2010",
+    "Rated": "PG-13",
+    "Released": "16 Jul 2010",
+    "Runtime": "148 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Christopher Nolan",
+    "Writer": "Christopher Nolan",
+    "Actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",
+    "Plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+    "Language": "English, Japanese, French",
+    "Country": "United States, United Kingdom",
+    "Awards": "Won 4 Oscars. 159 wins & 220 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "87%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "74/100"
+      }
+    ],
+    "Metascore": "74",
+    "imdbRating": "8.8",
+    "imdbVotes": "2,682,985",
+    "imdbID": "tt1375666",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$292,587,330",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "2001: A Space Odyssey",
+    "Year": "1968",
+    "Rated": "G",
+    "Released": "12 May 1968",
+    "Runtime": "149 min",
+    "Genre": "Adventure, Sci-Fi",
+    "Director": "Stanley Kubrick",
+    "Writer": "Stanley Kubrick, Arthur C. Clarke",
+    "Actors": "Keir Dullea, Gary Lockwood, William Sylvester",
+    "Plot": "When a mysterious artifact is uncovered on the Moon, a spacecraft manned by two humans and one supercomputer is sent to Jupiter to find its origins.",
+    "Language": "English, Russian, French",
+    "Country": "United Kingdom, United States",
+    "Awards": "Won 1 Oscar. 18 wins & 14 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjU0NDFkMTQtZWY5OS00MmZhLTg3Y2QtZmJhMzMzMWYyYjc2XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "90%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "84/100"
+      }
+    ],
+    "Metascore": "84",
+    "imdbRating": "8.3",
+    "imdbVotes": "753,280",
+    "imdbID": "tt0062622",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$60,481,243",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Godfather",
+    "Year": "1972",
+    "Rated": "R",
+    "Released": "24 Mar 1972",
+    "Runtime": "175 min",
+    "Genre": "Crime, Drama",
+    "Director": "Francis Ford Coppola",
+    "Writer": "Mario Puzo, Francis Ford Coppola",
+    "Actors": "Marlon Brando, Al Pacino, James Caan",
+    "Plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "Language": "English, Italian, Latin",
+    "Country": "United States",
+    "Awards": "Won 3 Oscars. 31 wins & 31 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "97%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "100/100"
+      }
+    ],
+    "Metascore": "100",
+    "imdbRating": "9.2",
+    "imdbVotes": "2,121,667",
+    "imdbID": "tt0068646",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$136,381,073",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Godfather Part II",
+    "Year": "1974",
+    "Rated": "R",
+    "Released": "18 Dec 1974",
+    "Runtime": "202 min",
+    "Genre": "Crime, Drama",
+    "Director": "Francis Ford Coppola",
+    "Writer": "Francis Ford Coppola, Mario Puzo",
+    "Actors": "Al Pacino, Robert De Niro, Robert Duvall",
+    "Plot": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+    "Language": "English, Italian, Spanish, Latin, Sicilian",
+    "Country": "United States",
+    "Awards": "Won 6 Oscars. 17 wins & 21 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDIxMzBlZDktZjMxNy00ZGI4LTgxNDEtYWRlNzRjMjJmOGQ1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "9.0/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "90/100"
+      }
+    ],
+    "Metascore": "90",
+    "imdbRating": "9.0",
+    "imdbVotes": "1,429,496",
+    "imdbID": "tt0071562",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$47,834,595",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Good, the Bad and the Ugly",
+    "Year": "1966",
+    "Rated": "R",
+    "Released": "29 Dec 1967",
+    "Runtime": "178 min",
+    "Genre": "Adventure, Western",
+    "Director": "Sergio Leone",
+    "Writer": "Luciano Vincenzoni, Sergio Leone, Agenore Incrocci",
+    "Actors": "Clint Eastwood, Eli Wallach, Lee Van Cleef",
+    "Plot": "A bounty-hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+    "Language": "Italian",
+    "Country": "Italy, Spain, West Germany, United States",
+    "Awards": "2 wins & 5 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWM5ZjQxM2YtNDlmYi00ZDNhLWI4MWUtN2VkYjBlMTY1ZTkwXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "97%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "90/100"
+      }
+    ],
+    "Metascore": "90",
+    "imdbRating": "8.8",
+    "imdbVotes": "850,523",
+    "imdbID": "tt0060196",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$25,100,000",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Se7en",
+    "Year": "1995",
+    "Rated": "R",
+    "Released": "22 Sep 1995",
+    "Runtime": "127 min",
+    "Genre": "Crime, Drama, Mystery",
+    "Director": "David Fincher",
+    "Writer": "Andrew Kevin Walker",
+    "Actors": "Morgan Freeman, Brad Pitt, Kevin Spacey",
+    "Plot": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+    "Language": "English",
+    "Country": "United States",
+    "Awards": "Nominated for 1 Oscar. 29 wins & 44 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2IzNzMxZjctZjUxZi00YzAxLTk3ZjMtODFjODdhMDU5NDM1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "84%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "65/100"
+      }
+    ],
+    "Metascore": "65",
+    "imdbRating": "8.6",
+    "imdbVotes": "1,907,628",
+    "imdbID": "tt0114369",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$101,040,643",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "The Departed",
+    "Year": "2006",
+    "Rated": "R",
+    "Released": "06 Oct 2006",
+    "Runtime": "151 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "Martin Scorsese",
+    "Writer": "William Monahan, Alan Mak, Felix Chong",
+    "Actors": "Leonardo DiCaprio, Matt Damon, Jack Nicholson",
+    "Plot": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "Language": "English, Cantonese",
+    "Country": "United States, Hong Kong",
+    "Awards": "Won 4 Oscars. 100 wins & 141 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "91%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "85/100"
+      }
+    ],
+    "Metascore": "85",
+    "imdbRating": "8.5",
+    "imdbVotes": "1,487,100",
+    "imdbID": "tt0407887",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$132,399,394",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "Inglourious Basterds",
+    "Year": "2009",
+    "Rated": "R",
+    "Released": "21 Aug 2009",
+    "Runtime": "153 min",
+    "Genre": "Adventure, Drama, War",
+    "Director": "Quentin Tarantino",
+    "Writer": "Quentin Tarantino",
+    "Actors": "Brad Pitt, Diane Kruger, Eli Roth",
+    "Plot": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+    "Language": "English, German, French, Italian",
+    "Country": "United States, Germany",
+    "Awards": "Won 1 Oscar. 134 wins & 173 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODZhMWJlNjYtNDExNC00MTIzLTllM2ItOGQ2NGVjNDQ3MzkzXkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "89%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "69/100"
+      }
+    ],
+    "Metascore": "69",
+    "imdbRating": "8.4",
+    "imdbVotes": "1,679,699",
+    "imdbID": "tt0361748",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$120,540,719",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },
+  {
+    "Title": "1917",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "10 Jan 2020",
+    "Runtime": "119 min",
+    "Genre": "Action, Drama, War",
+    "Director": "Sam Mendes",
+    "Writer": "Sam Mendes, Krysty Wilson-Cairns",
+    "Actors": "Dean-Charles Chapman, George MacKay, Daniel Mays",
+    "Plot": "April 6th, 1917. As an infantry battalion assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+    "Language": "English, French, German",
+    "Country": "United Kingdom, United States, India, Spain, Canada",
+    "Awards": "Won 3 Oscars. 135 wins & 207 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzkxZjg2NDQtMGVjMy00NWZkLTk0ZDEtZWE3NDYwYjAyMTg1XkEyXkFqcGc@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "88%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "78/100"
+      }
+    ],
+    "Metascore": "78",
+    "imdbRating": "8.2",
+    "imdbVotes": "725,123",
+    "imdbID": "tt8579674",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$159,227,644",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  },{
+    "Title": "The Wolf of Wall Street",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "25 Dec 2013",
+    "Runtime": "180 min",
+    "Genre": "Biography, Comedy, Crime",
+    "Director": "Martin Scorsese",
+    "Writer": "Terence Winter, Jordan Belfort",
+    "Actors": "Leonardo DiCaprio, Jonah Hill, Margot Robbie",
+    "Plot": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+    "Language": "English, French",
+    "Country": "United States",
+    "Awards": "Nominated for 5 Oscars. 38 wins & 180 nominations total",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "79%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "75/100"
+      }
+    ],
+    "Metascore": "75",
+    "imdbRating": "8.2",
+    "imdbVotes": "1,683,543",
+    "imdbID": "tt0993846",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$116,900,694",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+  }
+]
